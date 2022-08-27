@@ -30,7 +30,7 @@ Current Studies
   
 Skills
 ======
-* Programming Languages: Python, C/C++
+* Programming Languages: Python, C++
 * Programs: PyToch, Tensorflow, Linux, Latex
 
 Honours and Awards
