@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Maria Papadomanolaki"
 title_separator          : "-"
-#name                     : &name "Maria Papadomanolaki"
+name                     : &name "Maria P"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maria Papadomanolaki"
+  name             : " " #"Maria Papadomanolaki"
   avatar           : "myphoto.png"
   bio              : "PostDoctoral Researcher at CentraleSupélec"
   location         : "Paris, France"
