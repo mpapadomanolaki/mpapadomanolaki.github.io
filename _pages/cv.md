@@ -29,8 +29,8 @@ Current Studies
   
 Skills
 ======
-* Programming Languages: Python, C/C++, Lua
-* Programs: PyToch, Torch, Keras, Caffe, Tensorflow, Linux, Latex
+* Programming Languages: Python, C/C++
+* Programs: PyToch, Tensorflow, Linux, Latex
 
 Honours and Awards
 ======
