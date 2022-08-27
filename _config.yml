@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : " " #"Maria Papadomanolaki"
+  name             : "Maria Papadomanolaki"
   avatar           : "myphoto.png"
   bio              : "PostDoctoral Researcher at CentraleSupélec"
   location         : "Paris, France"
