@@ -13,7 +13,8 @@ Education
 ======
 * Diploma: Rural and Surveying Engineering, National Technical University of Athens, 2010-2016, [Grade: 8.20/10]
 <!-- * 2016 Master Thesis: Design, Development and Evaluation of Deep Learning-based Classification Frameworks for High Resolution Remote Sensing Data. Implementation and Integration into Orfeo Toolbox, 2016, [Grade: 10/10] -->
-* PhD in Computer Vision, Remote Sensing Laboratory, National Technical University of Athens
+* PhD in Computer Vision, Remote Sensing Laboratory, National Technical University of Athens, 2018-2022
+* PhD Intern at CentraleSupélec, Université Paris-Saclay, 2018-2020
 
 Experience
 ======
